@@ -1,4 +1,6 @@
 # Sergei Savchenko
+## Contact Information
+[Github](https://github.com/softhoz)
 ## About
 Hello, I am happy to present you my CV as a proud member of RS School community.
 ## Skills
