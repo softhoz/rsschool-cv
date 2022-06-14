@@ -7,6 +7,7 @@ Hello, I am happy to present you my CV as a proud member of RS School community.
 * Python 3
 * Windows and Linux Administration
 * Computer Networks
+
 ## Work Experience
 2010 - 2022 - ACME Corp - QA Engineer
 ## Education
